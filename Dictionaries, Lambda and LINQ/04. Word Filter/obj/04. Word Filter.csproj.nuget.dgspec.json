@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\06.Dictionaries, Lambda and LINQ\\04. Word Filter\\04. Word Filter.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\04. Word Filter\\04. Word Filter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\06.Dictionaries, Lambda and LINQ\\04. Word Filter\\04. Word Filter.csproj": {
+    "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\04. Word Filter\\04. Word Filter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\06.Dictionaries, Lambda and LINQ\\04. Word Filter\\04. Word Filter.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\04. Word Filter\\04. Word Filter.csproj",
         "projectName": "04. Word Filter",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\06.Dictionaries, Lambda and LINQ\\04. Word Filter\\04. Word Filter.csproj",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\04. Word Filter\\04. Word Filter.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\06.Dictionaries, Lambda and LINQ\\04. Word Filter\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\04. Word Filter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

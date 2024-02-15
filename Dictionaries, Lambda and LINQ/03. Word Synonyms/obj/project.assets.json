@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\06.Dictionaries, Lambda and LINQ\\03. Word Synonyms\\03. Word Synonyms.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\03. Word Synonyms\\03. Word Synonyms.csproj",
       "projectName": "03. Word Synonyms",
-      "projectPath": "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\06.Dictionaries, Lambda and LINQ\\03. Word Synonyms\\03. Word Synonyms.csproj",
+      "projectPath": "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\03. Word Synonyms\\03. Word Synonyms.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\06.Dictionaries, Lambda and LINQ\\03. Word Synonyms\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Desktop\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\03. Word Synonyms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

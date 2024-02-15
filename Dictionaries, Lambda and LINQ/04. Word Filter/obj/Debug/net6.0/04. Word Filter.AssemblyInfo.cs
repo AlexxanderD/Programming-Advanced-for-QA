@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04. Word Filter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+399732b90c7cafed3d0120c620ba0e4adfe2a68e")]
 [assembly: System.Reflection.AssemblyProductAttribute("04. Word Filter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04. Word Filter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
