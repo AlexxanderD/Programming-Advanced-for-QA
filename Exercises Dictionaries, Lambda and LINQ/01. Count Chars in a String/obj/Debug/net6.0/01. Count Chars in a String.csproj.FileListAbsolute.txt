@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.exe
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.deps.json
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.runtimeconfig.json
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.dll
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.pdb
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.dll
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\refint\01. Count Chars in a String.dll
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.pdb
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\01. Count Chars in a String\obj\Debug\net6.0\ref\01. Count Chars in a String.dll

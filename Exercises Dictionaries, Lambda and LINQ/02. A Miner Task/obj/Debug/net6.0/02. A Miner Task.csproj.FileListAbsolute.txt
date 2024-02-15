@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.exe
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.deps.json
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.runtimeconfig.json
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.dll
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\02. A Miner Task\bin\Debug\net6.0\02. A Miner Task.pdb
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.dll
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\02. A Miner Task\obj\Debug\net6.0\refint\02. A Miner Task.dll
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.pdb
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\02. A Miner Task\obj\Debug\net6.0\02. A Miner Task.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\02. A Miner Task\obj\Debug\net6.0\ref\02. A Miner Task.dll

@@ -1,0 +1,4 @@
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Programming Advanced for QA\07,Exercises Dictionaries, Lambda and LINQ\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.csproj.CoreCompileInputs.cache
